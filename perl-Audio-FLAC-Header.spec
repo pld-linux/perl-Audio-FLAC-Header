@@ -67,6 +67,7 @@ calculated from some of the information fields is keyed by:
 %{__perl} Makefile.PL \
 	INSTALLDIRS=vendor
 %{__make} \
+	CC="%{__cc}" \
 	OPTIMIZE="%{rpmcflags}"
 
 %{?with_tests:%{__make} test}
