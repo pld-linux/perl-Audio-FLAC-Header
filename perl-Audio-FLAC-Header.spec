@@ -8,13 +8,13 @@
 Summary:	Audio::FLAC::Header - interface to FLAC header metadata
 Summary(pl.UTF-8):	Audio::FLAC::HEADER - interfejs do metadanych nagłówków FLAC
 Name:		perl-Audio-FLAC-Header
-Version:	2.3
-Release:	2
+Version:	2.4
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Audio/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	602f14ac9801335f481865954441557c
+# Source0-md5:	743292694c050be1b10fb4a307f81e87
 URL:		http://search.cpan.org/dist/Audio-FLAC-Header/
 BuildRequires:	flac-devel
 BuildRequires:	perl-Test-Pod-Coverage
