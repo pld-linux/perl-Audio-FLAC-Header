@@ -60,6 +60,5 @@ rm -rf $RPM_BUILD_ROOT
 %{perl_vendorarch}/Audio/FLAC/Header.pm
 %dir %{perl_vendorarch}/auto/Audio/FLAC
 %dir %{perl_vendorarch}/auto/Audio/FLAC/Header
-%{perl_vendorarch}/auto/Audio/FLAC/Header/Header.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/Audio/FLAC/Header/Header.so
 %{_mandir}/man3/*
