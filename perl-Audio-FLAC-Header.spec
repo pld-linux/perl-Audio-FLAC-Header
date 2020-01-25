@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Audio
 %define	pnam	FLAC-Header
 Summary:	Audio::FLAC::Header - interface to FLAC header metadata
