@@ -8,7 +8,7 @@ Summary:	Audio::FLAC::Header - interface to FLAC header metadata
 Summary(pl.UTF-8):	Audio::FLAC::HEADER - interfejs do metadanych nagłówków FLAC
 Name:		perl-Audio-FLAC-Header
 Version:	2.4
-Release:	11
+Release:	12
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
